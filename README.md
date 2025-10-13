@@ -1,2 +1,2 @@
 # hello-world
-Github 흐름 연습용
+My name is Kim Seong Jun. I'm the student of Mechanical Engineering at Hanyang University in Seoul.
